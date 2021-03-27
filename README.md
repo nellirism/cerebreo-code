@@ -1,7 +1,7 @@
 # ***Code Refactor Engagement for Horiseon Marketing by Cerebreo Creators***
 
 # Purpose
-### The Cerebero Creators were hired by the Horiseon Marketing to refactor their web design in order for it to meet accessibility standards and optimized for search engines. The scope of this engagement includes consolidating and scouting the elements of the web page, adding attributes to ensure that the pages are readable by screen readers and improving the flow of the pages for future revisions.
+### The Cerebero Creators were hired by the Horiseon Marketing to refactor their web design in order for it to be optimized for search engines and meet accessibility standards. The scope of this engagement includes consolidating and scouting the elements of the web page, adding attributes to ensure that the pages are readable by screen readers and improving the flow of the pages and code for future revisions.
 
 ## I. "First Commit"
 
