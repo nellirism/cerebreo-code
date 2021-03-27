@@ -6,7 +6,7 @@
 ## I. First Commit
 
 ## I.1 Refactor Head Element on HTML
-- Replace title with the name of the company.
+- Replaced title with the name of the company.
 
 ## I.2 Refactor Header
 ### I.2.a Header on HTML
