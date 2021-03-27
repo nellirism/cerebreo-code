@@ -9,7 +9,7 @@
 - Replace title with the name of the company.
 
 ## I.2 "Refactor Header"
-### I.2.a "HTML Header"
+### I.2.a "Header on HTML"
 - Added Header semantic element.
 - Added Nav semantic element.
 - Made Company Logo "Horiseon" interactive by pointing back to the index.html upon click event. 
@@ -19,6 +19,7 @@
 - Added comments to indicate the Anchor elements. 
 - Removed "Header" class and introduced a Nav element with class "Header".
 
-### I.2.a "CSS Header"
+### I.2.a "Header on CSS"
 - Added comments to indicate General CSS styles. 
 - Removed "list-style-type" property since it does not affect the code.  
+- 
