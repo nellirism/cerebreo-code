@@ -55,4 +55,11 @@
 
 ## I.8 Redeploy Horiseon Website and Updated README file
 
+- Please visit this link to view the running website for Horiseon: https://nellirism.github.io/cerebreo-code/
+- See screenshots below:
+
+![header with Title on page](https://user-images.githubusercontent.com/71202250/112762034-a16a9700-8fb2-11eb-9a42-e7dbecdca26b.png)
+
+
+
 
