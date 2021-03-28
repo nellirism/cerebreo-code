@@ -60,6 +60,13 @@
 
 ![header with Title on page](https://user-images.githubusercontent.com/71202250/112762034-a16a9700-8fb2-11eb-9a42-e7dbecdca26b.png)
 
+![main page](https://user-images.githubusercontent.com/71202250/112762070-c959fa80-8fb2-11eb-9959-44b345797341.png)
+
+![submain](https://user-images.githubusercontent.com/71202250/112762088-dd9df780-8fb2-11eb-8e4c-4cbbcb02e0d3.png)
+
+![footer](https://user-images.githubusercontent.com/71202250/112762094-e1317e80-8fb2-11eb-83cb-e792f050e3db.png)
+
+
 
 
 
